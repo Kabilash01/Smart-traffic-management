@@ -96,7 +96,7 @@ This project is licensed under the **MIT License**.
 
 ## **👨‍💻 Author**
 **Your Name**  
-GitHub: [@yourusername](https://github.com/kabilash01)  
+GitHub: [@Kabilash01](https://github.com/kabilash01)  
 
 ---
 
