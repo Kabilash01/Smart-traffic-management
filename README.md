@@ -77,27 +77,6 @@ Here, you can **view real-time vehicle updates and traffic conditions**.
 - Displays **live vehicle updates** with color-coded traffic conditions.
 - Uses **CSS for styling** and **JavaScript for real-time updates**.
 
----
-
-## **🌍 Publishing to GitHub**
-To **push this project to GitHub**, follow these steps:
-
-### **1️⃣ Initialize Git**
-```bash
-git init
-git add .
-git commit -m "Initial commit - Smart Traffic Management System"
-```
-
-### **2️⃣ Link GitHub Repository**
-```bash
-git remote add origin https://github.com/yourusername/smart-traffic-management.git
-git branch -M main
-git push -u origin main
-```
-
----
-
 ## **📌 Additional Commands**
 ### **🔹 Check Flask Server Logs**
 ```bash
